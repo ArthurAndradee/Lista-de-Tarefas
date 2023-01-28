@@ -1,2 +1,4 @@
 # To-do-list
-Aplicativo desenvolvido no react de uma lista de tarefas
+ 
+ npmVerion 8.19.3
+ npm run dev para iniciar
